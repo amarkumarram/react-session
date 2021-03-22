@@ -1,0 +1,57 @@
+
+React JS understanding
+
+
+Single page application understanding
+
+
+Webpack and Babel
+
+
+Steps to install
+
+
+React Components
+
+
+State and Props
+
+
+Props validation
+
+
+Component Life Cycle
+
+
+React Component API
+
+
+React Form
+
+
+Inline CSS
+
+
+React Event
+
+
+Router
+
+
+React Bootstrap
+
+
+React Loop
+
+
+React Table
+
+
+Hooks
+
+
+Redux
+
+
+Testing react app using Jest
+============================
