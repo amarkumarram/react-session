@@ -1,9 +1,13 @@
 import React from 'react'
-import {User} from './functional-component/User'
+import WelcomeUser from './functional-component/WelcomeUser'
+import UserDetails from './class-compoents/UserDetails'
 
 let App = () => {
   return(
-    <User></User>
+    <>
+      <WelcomeUser username="functional component" />
+      <UserDetails username="class component" />
+    </>
   );
 } 
 
