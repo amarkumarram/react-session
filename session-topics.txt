@@ -1,57 +1,43 @@
 
-React JS understanding
+React JS understanding - Done
 
+Single page application understanding - Done
 
-Single page application understanding
+Webpack and Babel - Done
 
+Steps to install - Done
 
-Webpack and Babel
+React Components - Done
 
+Fragments - Done
 
-Steps to install
+State and Props - Done
 
-
-React Components
-
-
-State and Props
-
-
-Props validation
-
-
-Component Life Cycle
-
-
-React Component API
-
-
-React Form
-
-
-Inline CSS
-
+update state
 
 React Event
 
+Props validation
+
+Component Life Cycle
+
+React Component API
+
+React Form
+
+Inline CSS
 
 Router
 
-
 React Bootstrap
-
 
 React Loop
 
-
 React Table
-
 
 Hooks
 
-
 Redux
-
 
 Testing react app using Jest
 ============================
