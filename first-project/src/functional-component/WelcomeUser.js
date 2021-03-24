@@ -1,6 +1,7 @@
 import React from "react";
 
 function WelcomeUser(props){
-   return <h3>Welcome {props.username}</h3>;
+   const {username, age} = props;
+   return <h3>Welcome {username} of {age} years old.</h3>;
 }
 export default WelcomeUser;

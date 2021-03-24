@@ -5,8 +5,8 @@ import UserDetails from './class-compoents/UserDetails'
 let App = () => {
   return(
     <>
-      <WelcomeUser username="functional component" />
-      <UserDetails username="class component" />
+      <WelcomeUser username="functional component" age="24" />
+      <UserDetails username="class component" age="27" />
     </>
   );
 } 
