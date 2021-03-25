@@ -15,7 +15,7 @@ State and Props - Done
 
 update state - Done
 
-React Event
+React Event - Done
 
 Props validation
 
@@ -37,7 +37,7 @@ React Table
 
 Hooks
 
-Redux
+Redux - Redux is not specific to React
 
 Testing react app using Jest
 ============================
