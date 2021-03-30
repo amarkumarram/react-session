@@ -19,7 +19,7 @@ React Event - Done
 
 Props validation
 
-Component Life Cycle
+Component Life Cycle - Done
 
 React Component API
 
