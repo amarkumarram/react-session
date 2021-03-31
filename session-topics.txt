@@ -17,7 +17,7 @@ update state - Done
 
 React Event - Done
 
-Props validation
+Props validation - Done
 
 Component Life Cycle - Done
 
