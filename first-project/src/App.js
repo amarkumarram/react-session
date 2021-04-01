@@ -5,6 +5,7 @@ import GreetPerson from './functional-component/GreetPerson'
 import SayHello from './class-compoents/SayHello'
 import ParentClass from './class-compoents/ParentClass'
 import PropComponent from './class-compoents/PropComponent'
+import ReactStylesParent from './functional-component/ReactStylesParent'
 
 let App = () => {
 
@@ -16,7 +17,8 @@ let App = () => {
 
   return(
     <>
-      <PropComponent name="TCS Angular" childBtnFunc={alertOk}/>
+      {/*<PropComponent name="TCS Angular" childBtnFunc={alertOk}/>*/}
+      <ReactStylesParent showColor={true}/>
     </>
   );
 } 
