@@ -6,19 +6,13 @@ import SayHello from './class-compoents/SayHello'
 import ParentClass from './class-compoents/ParentClass'
 import PropComponent from './class-compoents/PropComponent'
 import ReactStylesParent from './functional-component/ReactStylesParent'
+import ReactForm from './class-compoents/ReactForm'
 
 let App = () => {
 
-  function alertOk(child) {
-   // alert("Clicked from "+child);
-   alert(`I have been clicked from ${child}`);
-    //Template literals
-  }
-
   return(
     <>
-      {/*<PropComponent name="TCS Angular" childBtnFunc={alertOk}/>*/}
-      <ReactStylesParent showColor={true}/>
+      <ReactForm />
     </>
   );
 } 
