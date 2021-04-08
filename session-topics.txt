@@ -35,7 +35,7 @@ React Loop
 
 React Table
 
-Hooks
+Hooks (useState) - Done
 
 Redux - Redux is not specific to React
 
